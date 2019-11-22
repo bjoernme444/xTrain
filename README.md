@@ -1,4 +1,4 @@
-# flutter_train
+# xTrain
 
 My First Flutter-Styled ProjecT
 
