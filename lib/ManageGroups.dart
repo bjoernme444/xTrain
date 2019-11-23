@@ -16,6 +16,7 @@ class ManageGroups extends StatelessWidget {
             content: TextField(
               controller: _textFieldController,
               decoration: InputDecoration(hintText: "Name der Gruppe..."),
+              autofocus: true,            
             ),
             actions: <Widget>[
               new FlatButton(
