@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "879350676280",
+    "firebase_url": "https://xtrain-4aaff.firebaseio.com",
+    "project_id": "xtrain-4aaff",
+    "storage_bucket": "xtrain-4aaff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:879350676280:android:f085bb529c0a274187dfcd",
+        "android_client_info": {
+          "package_name": "de.bjoernmellies.xtrain"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "879350676280-vr31g5o4qk3chptrehdo1d79sr26p741.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDsCgGxmztfNRopKO0qhBByeRwiEXXKqQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "879350676280-vr31g5o4qk3chptrehdo1d79sr26p741.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

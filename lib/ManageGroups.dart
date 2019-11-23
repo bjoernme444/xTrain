@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 
+import 'GroupList.dart';
+
 class ManageGroups extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -9,7 +11,7 @@ class ManageGroups extends StatelessWidget {
         title: Text('Meine Gruppen'),
       ),
       body: Center(
-        child: Text('Yay'),
+        child: GroupList()
       ),
     );
   }
